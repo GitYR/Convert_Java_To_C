@@ -1,4 +1,4 @@
-# 2019_lsp_project2
+# Convert_Java_To_C
 
 This project files are simple real-time converting program from C file to Java file
 , but it can only convert C files to Java files in limited circumstances.
